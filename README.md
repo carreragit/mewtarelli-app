@@ -1,4 +1,4 @@
-# 🍝 MEWTARELLI App - Proyecto Académico
+# 🍝 MEWTARELLI App 
 
 *Aplicación móvil para la cadena de restaurantes MEWTARELLI
 
