@@ -8,7 +8,7 @@ Aplicación móvil para la cadena de restaurantes MEWTARELLI
 
 ```bash
 mewtarelli-app/
-├── src/                   # Código fuente simulado
+├── src/                   # Código fuente 
 │   ├── features/          # Funcionalidades principales
 │   ├── core/              # Configuración global
 │   └── assets/            # Recursos estáticos
